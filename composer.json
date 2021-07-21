@@ -1,5 +1,5 @@
 {
-  "name": "voryx/pgasync",
+  "name": "rotgp/pgasync",
   "type": "library",
   "description": "Async Reactive Postgres Driver for PHP (Non-blocking)",
   "keywords": [
@@ -15,11 +15,14 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Matt Bonneau", "email": "matt@bonneau.net", "role": "Developer"
+      "name": "Matt Bonneau",
+      "email": "matt@bonneau.net",
+      "role": "Developer"
     },
-
     {
-      "name": "David Dan", "email": "davidwdan@gmail.com", "role": "Developer"
+      "name": "David Dan",
+      "email": "davidwdan@gmail.com",
+      "role": "Developer"
     }
   ],
   "autoload": {
